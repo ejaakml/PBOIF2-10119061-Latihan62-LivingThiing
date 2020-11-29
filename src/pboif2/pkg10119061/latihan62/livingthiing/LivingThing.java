@@ -8,6 +8,11 @@ package pboif2.pkg10119061.latihan62.livingthiing;
 /**
  *
  * @author Rheiza
+ 
+ * NAMA : Rheiza Akmal R
+ * KELAS : IF 2
+ * NIM : 10119061
+ * DESKRIPSI : Living Thing
  */
 public abstract class LivingThing {
     public abstract void walk(String nama);
